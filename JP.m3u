@@ -104,5 +104,5 @@ http://103.197.59.109:5002/cs10.m3u8?token=103b2dcbc533a526d041af93736364ec03b80
 http://103.197.59.109:5002/cs08.m3u8?token=49eac4d1af9bb2821c452683ec8a0974ded95eb1ce25331b190e88853562b01a&gid=cs08&channel=zhongying
 #EXTINF:-1 group-title="CS" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet
 http://103.197.59.109:5002/cs24.m3u8?token=e3555e7b01f2b8ecdcb7919494320d6c75865fab7b2434d0aa456fcf20843b3b&gid=cs24&channel=zhongying
-#EXTINF:-1 group-title="CS" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History Channel
 http://103.197.59.109:5002/cs09.m3u8?token=67634f2d327b5ec9167adeafacd06742a049a69729fe83192f67f7b06b2aff24&gid=cs09&channel=zhongying
